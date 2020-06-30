@@ -246,7 +246,7 @@
             this.textBoxNameOrganization.ForeColor = System.Drawing.Color.DarkRed;
             this.textBoxNameOrganization.Location = new System.Drawing.Point(17, 26);
             this.textBoxNameOrganization.Name = "textBoxNameOrganization";
-            this.textBoxNameOrganization.Size = new System.Drawing.Size(116, 22);
+            this.textBoxNameOrganization.Size = new System.Drawing.Size(131, 22);
             this.textBoxNameOrganization.TabIndex = 17;
             // 
             // label1
